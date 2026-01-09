@@ -1,4 +1,4 @@
-# Análise de Tráfego de Malware com Wireshark
+# Análise de Tráfego de Malware com Wireshark (Dowload de software falso)
 
 
 ##  Ferramentas Utilizadas
@@ -12,13 +12,17 @@
 - Observação de padrões anormais de comunicação na rede
 
 ## Principais Descobertas
-- Requisições DNS para domínios suspeitos
-- Tráfego HTTP incomum, possivelmente relacionado a comunicação com servidor de comando e controle (C2)
-- Indicadores compatíveis com comportamentos conhecidos de malware
+- Muitas requisições DNS para domínios suspeitos
+- Tráfego HTTP incomum
+- Indicadores compatíveis com comportamentos conhecidos de malware no site VirusTotal
 
+![PCAP carregado no Wireshark](screenshots/DNS.png)
+
+![PCAP carregado no Wireshark](screenshots/VirustTotal.png)
 
 
 ## 📚 Habilidades Praticadas
 - Análise de tráfego de rede
 - Inspeção de pacotes
 - Fundamentos de cibersegurança
+
