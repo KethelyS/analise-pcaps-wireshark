@@ -6,7 +6,6 @@
 - VirusTotal
 - Arquivos PCAP obtidos de fontes públicas educacionais (Malware Traffic Analysis)## 📸 Captura de Tela – Análise no Wireshark
 
-![PCAP carregado no Wireshark](screenshots/01-wireshark-interface.png)
 
 
 
@@ -31,8 +30,6 @@
 - Inspeção de pacotes
 - Fundamentos de cibersegurança
 
-<<<<<<< HEAD
-=======
 
 
 
@@ -42,4 +39,4 @@
 - Análise de tráfego de rede
 - Inspeção de pacotes
 - Fundamentos de cibersegurança
->>>>>>> 351420da9fbdf0a1c4c93af36c6bffca763ec230
+
