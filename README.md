@@ -4,8 +4,7 @@
 ##  Ferramentas Utilizadas
 - Wireshark
 - VirusTotal
-- Arquivos PCAP obtidos de fontes públicas educacionais (Malware Traffic Analysis)## 📸 Captura de Tela – Análise no Wireshark
-
+- Arquivos PCAP obtidos de fontes públicas educacionais (Malware Traffic Analysis)
 
 
 
