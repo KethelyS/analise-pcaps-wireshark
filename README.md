@@ -3,7 +3,12 @@
 
 ##  Ferramentas Utilizadas
 - Wireshark
-- Arquivos PCAP obtidos de fontes públicas educacionais (Malware Traffic Analysis)
+- VirusTotal
+- Arquivos PCAP obtidos de fontes públicas educacionais (Malware Traffic Analysis)## 📸 Captura de Tela – Análise no Wireshark
+
+![PCAP carregado no Wireshark](screenshots/01-wireshark-interface.png)
+
+
 
 ##  Análises Realizadas
 - Identificação de endereços IP suspeitos
@@ -26,3 +31,15 @@
 - Inspeção de pacotes
 - Fundamentos de cibersegurança
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+## 📚 Habilidades Praticadas
+- Análise de tráfego de rede
+- Inspeção de pacotes
+- Fundamentos de cibersegurança
+>>>>>>> 351420da9fbdf0a1c4c93af36c6bffca763ec230
