@@ -34,8 +34,3 @@
 
 
 
-## 📚 Habilidades Praticadas
-- Análise de tráfego de rede
-- Inspeção de pacotes
-- Fundamentos de cibersegurança
-
